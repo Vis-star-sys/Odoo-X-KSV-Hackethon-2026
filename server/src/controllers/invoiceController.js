@@ -404,4 +404,4 @@ function numberToWords(num) {
   return result;
 }
 
-module.exports = { getInvoices, generateInvoice, updateInvoiceStatus, downloadInvoicePdf };
+module.exports = { getInvoices, generateInvoice, downloadInvoicePdf };
